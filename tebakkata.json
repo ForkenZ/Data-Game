@@ -1508,5 +1508,995 @@
     "index": 301,
     "soal": "Buah, Kulit, Duri",
     "jawaban": "DURIAN"
+  },
+  {
+    "index": 302,
+    "soal": "Tempat, Buku, Pinjam, Baca",
+    "jawaban": "PERPUSTAKAAN"
+  },
+  {
+    "index": 303,
+    "soal": "Hewan, Laut, Gurita, Tentakel",
+    "jawaban": "CUMI"
+  },
+  {
+    "index": 304,
+    "soal": "Alat, Tulis, Hitam, Isi Ulang",
+    "jawaban": "PULPEN"
+  },
+  {
+    "index": 305,
+    "soal": "Buah, Kuning, Asam, Segar",
+    "jawaban": "NANAS"
+  },
+  {
+    "index": 306,
+    "soal": "Tempat, Tidur, Pasien, Dokter",
+    "jawaban": "RUMAH SAKIT"
+  },
+  {
+    "index": 307,
+    "soal": "Benda, Bulat, Putih, Tenis",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 308,
+    "soal": "Alat, Potong, Kayu, Tajam",
+    "jawaban": "GERGAJI"
+  },
+  {
+    "index": 309,
+    "soal": "Hewan, Laut, Cangkang, Keras",
+    "jawaban": "KERANG"
+  },
+  {
+    "index": 310,
+    "soal": "Benda, Panjang, Listrik, Nyala",
+    "jawaban": "KABEL"
+  },
+  {
+    "index": 311,
+    "soal": "Tempat, Belanja, Sayur, Buah",
+    "jawaban": "PASAR"
+  },
+  {
+    "index": 312,
+    "soal": "Alat, Masak, Goreng, Minyak",
+    "jawaban": "WOK"
+  },
+  {
+    "index": 313,
+    "soal": "Hewan, Hutan, Hitam, Putih",
+    "jawaban": "PANDA"
+  },
+  {
+    "index": 314,
+    "soal": "Benda, Bulat, Waktu, Jarum",
+    "jawaban": "JAM"
+  },
+  {
+    "index": 315,
+    "soal": "Tempat, Air, Renang, Kolam",
+    "jawaban": "KOLAM RENANG"
+  },
+  {
+    "index": 316,
+    "soal": "Alat, Musik, Tiup, Kuningan",
+    "jawaban": "TEROMPET"
+  },
+  {
+    "index": 317,
+    "soal": "Buah, Merah, Bulat, Sayur",
+    "jawaban": "TOMAT"
+  },
+  {
+    "index": 318,
+    "soal": "Hewan, Laut, Besar, Mamalia",
+    "jawaban": "PAUS"
+  },
+  {
+    "index": 319,
+    "soal": "Benda, Tipis, Buku, Halaman",
+    "jawaban": "KERTAS"
+  },
+  {
+    "index": 320,
+    "soal": "Tempat, Makan, Meja, Kursi",
+    "jawaban": "RESTORAN"
+  },
+  {
+    "index": 321,
+    "soal": "Alat, Potong, Kertas, Tajam",
+    "jawaban": "GUNTING"
+  },
+  {
+    "index": 322,
+    "soal": "Hewan, Darat, Kecil, Merayap",
+    "jawaban": "SEMUT"
+  },
+  {
+    "index": 323,
+    "soal": "Benda, Bulat, Mainan, Anak",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 324,
+    "soal": "Tempat, Tinggi, Pandang, Kota",
+    "jawaban": "MENARA"
+  },
+  {
+    "index": 325,
+    "soal": "Alat, Tulis, Kapur, Papan",
+    "jawaban": "PENSIL"
+  },
+  {
+    "index": 326,
+    "soal": "Buah, Hijau, Keras, Duri",
+    "jawaban": "DURIAN"
+  },
+  {
+    "index": 327,
+    "soal": "Hewan, Laut, Kecil, Beracun",
+    "jawaban": "UBUR-UBUR"
+  },
+  {
+    "index": 328,
+    "soal": "Benda, Panjang, Fleksibel, Ikat",
+    "jawaban": "TALI"
+  },
+  {
+    "index": 329,
+    "soal": "Tempat, Belajar, Guru, Murid",
+    "jawaban": "SEKOLAH"
+  },
+  {
+    "index": 330,
+    "soal": "Alat, Masak, Air, Panas",
+    "jawaban": "CEREK"
+  },
+  {
+    "index": 331,
+    "soal": "Hewan, Darat, Kecil, Melompat",
+    "jawaban": "KATAK"
+  },
+  {
+    "index": 332,
+    "soal": "Benda, Bulat, Mainan, Guling",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 333,
+    "soal": "Tempat, Air, Minum, Kran",
+    "jawaban": "GELAS"
+  },
+  {
+    "index": 334,
+    "soal": "Alat, Potong, Besar, Tajam",
+    "jawaban": "GOLOK"
+  },
+  {
+    "index": 335,
+    "soal": "Buah, Kuning, Manis, Pohon",
+    "jawaban": "PISANG"
+  },
+  {
+    "index": 336,
+    "soal": "Hewan, Laut, Kecil, Berenang",
+    "jawaban": "IKAN"
+  },
+  {
+    "index": 337,
+    "soal": "Benda, Panjang, Fleksibel, Ikat",
+    "jawaban": "TALI"
+  },
+  {
+    "index": 338,
+    "soal": "Tempat, Belanja, Barang, Murah",
+    "jawaban": "PASAR"
+  },
+  {
+    "index": 339,
+    "soal": "Alat, Tulis, Hitam, Papan",
+    "jawaban": "SPIDOL"
+  },
+  {
+    "index": 340,
+    "soal": "Hewan, Darat, Besar, Belalai",
+    "jawaban": "GAJAH"
+  },
+  {
+    "index": 341,
+    "soal": "Benda, Bulat, Mainan, Anak",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 342,
+    "soal": "Tempat, Tinggi, Pandang, Kota",
+    "jawaban": "MENARA"
+  },
+  {
+    "index": 343,
+    "soal": "Alat, Potong, Kayu, Tajam",
+    "jawaban": "KAPAK"
+  },
+  {
+    "index": 344,
+    "soal": "Buah, Merah, Kecil, Asam",
+    "jawaban": "CERI"
+  },
+  {
+    "index": 345,
+    "soal": "Hewan, Laut, Kecil, Berenang",
+    "jawaban": "IKAN"
+  },
+  {
+    "index": 346,
+    "soal": "Benda, Panjang, Fleksibel, Ikat",
+    "jawaban": "TALI"
+  },
+  {
+    "index": 347,
+    "soal": "Tempat, Belajar, Guru, Murid",
+    "jawaban": "KELAS"
+  },
+  {
+    "index": 348,
+    "soal": "Alat, Masak, Air, Panas",
+    "jawaban": "PANCI"
+  },
+  {
+    "index": 349,
+    "soal": "Hewan, Darat, Kecil, Melompat",
+    "jawaban": "KATAK"
+  },
+  {
+    "index": 350,
+    "soal": "Benda, Bulat, Mainan, Guling",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 351,
+    "soal": "Tempat, Air, Minum, Kran",
+    "jawaban": "GELAS"
+  },
+  {
+    "index": 352,
+    "soal": "Alat, Dapur, Panas, Masak",
+    "jawaban": "WOK"
+  },
+  {
+    "index": 353,
+    "soal": "Hewan, Tanduk, Afrika, Herbivora",
+    "jawaban": "BADAK"
+  },
+  {
+    "index": 354,
+    "soal": "Benda, Elektronik, Dingin, Makanan",
+    "jawaban": "KULKAS"
+  },
+  {
+    "index": 355,
+    "soal": "Tempat, Air, Renang, Olimpiade",
+    "jawaban": "KOLAM"
+  },
+  {
+    "index": 356,
+    "soal": "Alat, Tulis, Papan, Kapur",
+    "jawaban": "SPIDOL"
+  },
+  {
+    "index": 357,
+    "soal": "Buah, Tropis, Kuning, Manis",
+    "jawaban": "MANGGA"
+  },
+  {
+    "index": 358,
+    "soal": "Hewan, Nokturnal, Terbang, Gua",
+    "jawaban": "KELELAWAR"
+  },
+  {
+    "index": 359,
+    "soal": "Benda, Bulat, Sport, Gawang",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 360,
+    "soal": "Tempat, Tinggi, Pandang, Observasi",
+    "jawaban": "MENARA"
+  },
+  {
+    "index": 361,
+    "soal": "Alat, Potong, Logam, Tajam",
+    "jawaban": "GUNTING"
+  },
+  {
+    "index": 362,
+    "soal": "Hewan, Laut, Bercangkang, Lambat",
+    "jawaban": "PENYU"
+  },
+  {
+    "index": 363,
+    "soal": "Benda, Elektronik, Hiburan, Layar",
+    "jawaban": "TV"
+  },
+  {
+    "index": 364,
+    "soal": "Tempat, Bersejarah, Kuno, Wisata",
+    "jawaban": "CANDI"
+  },
+  {
+    "index": 365,
+    "soal": "Alat, Musik, Petik, Senar",
+    "jawaban": "GITAR"
+  },
+  {
+    "index": 366,
+    "soal": "Buah, Merah, Kecil, Asam",
+    "jawaban": "STROBERI"
+  },
+  {
+    "index": 367,
+    "soal": "Hewan, Padang Rumput, Herbivora, Cepat",
+    "jawaban": "RUSA"
+  },
+  {
+    "index": 368,
+    "soal": "Benda, Bulat, Waktu, Dinding",
+    "jawaban": "JAM"
+  },
+  {
+    "index": 369,
+    "soal": "Tempat, Belajar, Buku, Pustaka",
+    "jawaban": "PERPUSTAKAAN"
+  },
+  {
+    "index": 370,
+    "soal": "Alat, Masak, Goreng, Minyak",
+    "jawaban": "PENGGORENGAN"
+  },
+  {
+    "index": 371,
+    "soal": "Hewan, Hutan, Hitam, Putih",
+    "jawaban": "PANDA"
+  },
+  {
+    "index": 372,
+    "soal": "Benda, Elektronik, Komunikasi, SMS",
+    "jawaban": "HP"
+  },
+  {
+    "index": 373,
+    "soal": "Tempat, Air, Minum, Kran",
+    "jawaban": "GELAS"
+  },
+  {
+    "index": 374,
+    "soal": "Alat, Tulis, Hitam, Kertas",
+    "jawaban": "PULPEN"
+  },
+  {
+    "index": 375,
+    "soal": "Buah, Kuning, Asam, Segar",
+    "jawaban": "LEMON"
+  },
+  {
+    "index": 376,
+    "soal": "Hewan, Laut, Gurita, Tentakel",
+    "jawaban": "GURITA"
+  },
+  {
+    "index": 377,
+    "soal": "Benda, Bulat, Mainan, Anak",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 378,
+    "soal": "Tempat, Tidur, Pasien, Dokter",
+    "jawaban": "RUMAH SAKIT"
+  },
+  {
+    "index": 379,
+    "soal": "Alat, Potong, Kayu, Tajam",
+    "jawaban": "KAPAK"
+  },
+  {
+    "index": 380,
+    "soal": "Hewan, Laut, Cangkang, Keras",
+    "jawaban": "KERANG"
+  },
+  {
+    "index": 381,
+    "soal": "Benda, Panjang, Listrik, Nyala",
+    "jawaban": "KABEL"
+  },
+  {
+    "index": 382,
+    "soal": "Tempat, Belanja, Sayur, Buah",
+    "jawaban": "PASAR"
+  },
+  {
+    "index": 383,
+    "soal": "Alat, Masak, Goreng, Minyak",
+    "jawaban": "WOK"
+  },
+  {
+    "index": 384,
+    "soal": "Hewan, Hutan, Hitam, Putih",
+    "jawaban": "PANDA"
+  },
+  {
+    "index": 385,
+    "soal": "Benda, Bulat, Waktu, Jarum",
+    "jawaban": "JAM"
+  },
+  {
+    "index": 386,
+    "soal": "Tempat, Air, Renang, Kolam",
+    "jawaban": "KOLAM RENANG"
+  },
+  {
+    "index": 387,
+    "soal": "Alat, Musik, Tiup, Kuningan",
+    "jawaban": "TEROMPET"
+  },
+  {
+    "index": 388,
+    "soal": "Buah, Merah, Bulat, Sayur",
+    "jawaban": "TOMAT"
+  },
+  {
+    "index": 389,
+    "soal": "Hewan, Laut, Besar, Mamalia",
+    "jawaban": "PAUS"
+  },
+  {
+    "index": 390,
+    "soal": "Benda, Tipis, Buku, Halaman",
+    "jawaban": "KERTAS"
+  },
+  {
+    "index": 391,
+    "soal": "Tempat, Makan, Meja, Kursi",
+    "jawaban": "RESTORAN"
+  },
+  {
+    "index": 392,
+    "soal": "Alat, Potong, Kertas, Tajam",
+    "jawaban": "GUNTING"
+  },
+  {
+    "index": 393,
+    "soal": "Hewan, Darat, Kecil, Merayap",
+    "jawaban": "SEMUT"
+  },
+  {
+    "index": 394,
+    "soal": "Benda, Bulat, Mainan, Anak",
+    "jawaban": "BOLA"
+  },
+  {
+    "index": 395,
+    "soal": "Tempat, Tinggi, Pandang, Kota",
+    "jawaban": "MENARA"
+  },
+  {
+    "index": 396,
+    "soal": "Alat, Tulis, Kapur, Papan",
+    "jawaban": "PENSIL"
+  },
+  {
+    "index": 397,
+    "soal": "Buah, Hijau, Keras, Duri",
+    "jawaban": "DURIAN"
+  },
+  {
+    "index": 398,
+    "soal": "Hewan, Laut, Kecil, Beracun",
+    "jawaban": "UBUR-UBUR"
+  },
+  {
+    "index": 399,
+    "soal": "Benda, Panjang, Fleksibel, Ikat",
+    "jawaban": "TALI"
+  },
+  {
+    "index": 400,
+    "soal": "Tempat, Belajar, Guru, Murid",
+    "jawaban": "SEKOLAH"
+  },
+  {
+    "index": 401,
+    "soal": "Alat, Masak, Air, Panas",
+    "jawaban": "CEREK"
+  },
+  {
+    "index": 402,
+    "soal": "Benda, Bundar, Berputar, Kendaraan",
+    "jawaban": "RODA"
+  },
+  {
+    "index": 403,
+    "soal": "Hewan, Mamalia, Laut, Bertanduk",
+    "jawaban": "NARWHAL"
+  },
+  {
+    "index": 404,
+    "soal": "Alat, Berkebun, Cangkul, Tanah",
+    "jawaban": "SEKOP"
+  },
+  {
+    "index": 405,
+    "soal": "Tempat, Perbelanjaan, Modern, AC",
+    "jawaban": "MALL"
+  },
+  {
+    "index": 406,
+    "soal": "Buah, Bulat, Hijau, Daging Merah",
+    "jawaban": "SEMANGKA"
+  },
+  {
+    "index": 407,
+    "soal": "Profesi, Bangunan, Helm, Cetak Biru",
+    "jawaban": "ARSITEK"
+  },
+  {
+    "index": 408,
+    "soal": "Benda, Elektronik, Dingin, Freezer",
+    "jawaban": "LEMARI ES"
+  },
+  {
+    "index": 409,
+    "soal": "Hewan, Reptil, Panjang, Tidak Berkaki",
+    "jawaban": "ULAR"
+  },
+  {
+    "index": 410,
+    "soal": "Alat, Medis, Suntik, Jarum",
+    "jawaban": "SPUIT"
+  },
+  {
+    "index": 411,
+    "soal": "Tempat, Bersejarah, Batu, Inggris",
+    "jawaban": "STONEHENGE"
+  },
+  {
+    "index": 412,
+    "soal": "Benda, Bulat, Permainan, Dadu",
+    "jawaban": "DADU"
+  },
+  {
+    "index": 413,
+    "soal": "Hewan, Unggas, Bertelur, Kandang",
+    "jawaban": "AYAM"
+  },
+  {
+    "index": 414,
+    "soal": "Alat, Musik, Pukul, Perunggu",
+    "jawaban": "GONG"
+  },
+  {
+    "index": 415,
+    "soal": "Buah, Kecil, Merah, Berbiji",
+    "jawaban": "ANGGUR"
+  },
+  {
+    "index": 416,
+    "soal": "Profesi, Udara, Seragam, Pilot",
+    "jawaban": "PENERBANG"
+  },
+  {
+    "index": 417,
+    "soal": "Benda, Tajam, Dapur, Iris",
+    "jawaban": "PISAU"
+  },
+  {
+    "index": 418,
+    "soal": "Hewan, Laut, Bertubuh Lunak, Cumi",
+    "jawaban": "GURITA"
+  },
+  {
+    "index": 419,
+    "soal": "Alat, Pertukangan, Palu, Paku",
+    "jawaban": "MARTIL"
+  },
+  {
+    "index": 420,
+    "soal": "Tempat, Air Terjun, Tinggi, Alam",
+    "jawaban": "JURANG"
+  },
+  {
+    "index": 421,
+    "soal": "Benda, Ringan, Terbang, Anak Mainan",
+    "jawaban": "LAYANGAN"
+  },
+  {
+    "index": 422,
+    "soal": "Hewan, Nokturnal, Burung, Hantu",
+    "jawaban": "BURUNG HANTU"
+  },
+  {
+    "index": 423,
+    "soal": "Alat, Berkebun, Potong, Ranting",
+    "jawaban": "GUNTING PAGAR"
+  },
+  {
+    "index": 424,
+    "soal": "Buah, Kuning, Asam, Vitamin C",
+    "jawaban": "LEMON"
+  },
+  {
+    "index": 425,
+    "soal": "Profesi, Laut, Kapal, Navigasi",
+    "jawaban": "NAHKODA"
+  },
+  {
+    "index": 426,
+    "soal": "Benda, Elektronik, Hitung, Matematika",
+    "jawaban": "KALKULATOR"
+  },
+  {
+    "index": 427,
+    "soal": "Hewan, Mamalia, Australia, Kantung",
+    "jawaban": "KANGGURU"
+  },
+  {
+    "index": 428,
+    "soal": "Alat, Dapur, Goreng, Wajan",
+    "jawaban": "TEFLON"
+  },
+  {
+    "index": 429,
+    "soal": "Tempat, Sejarah, Yunani, Koloseum",
+    "jawaban": "PARTHENON"
+  },
+  {
+    "index": 430,
+    "soal": "Benda, Transparan, Jendela, Kaca",
+    "jawaban": "KACA"
+  },
+  {
+    "index": 431,
+    "soal": "Hewan, Reptil, Besar, Buaya",
+    "jawaban": "KOMODO"
+  },
+  {
+    "index": 432,
+    "soal": "Alat, Medis, Denyut, Jantung",
+    "jawaban": "STETOSKOP"
+  },
+  {
+    "index": 433,
+    "soal": "Buah, Tropis, Duri, Wangi",
+    "jawaban": "DURIAN"
+  },
+  {
+    "index": 434,
+    "soal": "Profesi, Seni, Gambar, Kanvas",
+    "jawaban": "PELUKIS"
+  },
+  {
+    "index": 435,
+    "soal": "Benda, Tajam, Potong, Kertas",
+    "jawaban": "PISAU"
+  },
+  {
+    "index": 436,
+    "soal": "Hewan, Laut, Bercangkang, Keong",
+    "jawaban": "SIPUT"
+  },
+  {
+    "index": 437,
+    "soal": "Alat, Pertukangan, Sekrup, Obeng",
+    "jawaban": "TORX"
+  },
+  {
+    "index": 438,
+    "soal": "Tempat, Dingin, Es, Kutub",
+    "jawaban": "ANTARTIKA"
+  },
+  {
+    "index": 439,
+    "soal": "Benda, Bulat, Lampu, Penerangan",
+    "jawaban": "BOHLAM"
+  },
+  {
+    "index": 440,
+    "soal": "Hewan, Darat, Herbivora, Jerapah",
+    "jawaban": "ZEBRA"
+  },
+  {
+    "index": 441,
+    "soal": "Alat, Berkebun, Siram, Tanaman",
+    "jawaban": "EMBRAT"
+  },
+  {
+    "index": 442,
+    "soal": "Buah, Merah, Kecil, Stroberi",
+    "jawaban": "RASPBERRY"
+  },
+  {
+    "index": 443,
+    "soal": "Profesi, Keamanan, Senjata, Seragam",
+    "jawaban": "POLISI"
+  },
+  {
+    "index": 444,
+    "soal": "Benda, Elektronik, Foto, Memori",
+    "jawaban": "KAMERA"
+  },
+  {
+    "index": 445,
+    "soal": "Hewan, Unggas, Air, Bebek",
+    "jawaban": "ANGSA"
+  },
+  {
+    "index": 446,
+    "soal": "Alat, Dapur, Rebus, Panci",
+    "jawaban": "PRESTON"
+  },
+  {
+    "index": 447,
+    "soal": "Tempat, Sejarah, India, Kubah",
+    "jawaban": "TAJ MAHAL"
+  },
+  {
+    "index": 448,
+    "soal": "Benda, Transparan, Minum, Gelas",
+    "jawaban": "GELAS"
+  },
+  {
+    "index": 449,
+    "soal": "Hewan, Reptil, Kecil, Kadal",
+    "jawaban": "CICAK"
+  },
+  {
+    "index": 450,
+    "soal": "Alat, Medis, Suhu, Termometer",
+    "jawaban": "TENSIMETER"
+  },
+  {
+    "index": 451,
+    "soal": "Buah, Tropis, Kuning, Manis",
+    "jawaban": "NANAS"
+  },
+  {
+    "index": 452,
+    "soal": "Alat, Pertanian, Bajak, Tanah",
+    "jawaban": "TRAKTOR"
+  },
+  {
+    "index": 453,
+    "soal": "Hewan, Amphibi, Hijau, Melompat",
+    "jawaban": "KATAK"
+  },
+  {
+    "index": 454,
+    "soal": "Benda, Kantor, Klip, Kertas",
+    "jawaban": "PENJEPIT"
+  },
+  {
+    "index": 455,
+    "soal": "Tempat, Peristirahatan, Pegunungan, Villa",
+    "jawaban": "PENGINAPAN"
+  },
+  {
+    "index": 456,
+    "soal": "Buah, Kering, Kurma, Manis",
+    "jawaban": "PRUNE"
+  },
+  {
+    "index": 457,
+    "soal": "Profesi, Hewan, Perawatan, Dokter",
+    "jawaban": "DOKTER HEWAN"
+  },
+  {
+    "index": 458,
+    "soal": "Benda, Laboratorium, Tabung, Kimia",
+    "jawaban": "LABU UKUR"
+  },
+  {
+    "index": 459,
+    "soal": "Hewan, Mamalia, Air Tawar, Kumis",
+    "jawaban": "BERANG-BERANG"
+  },
+  {
+    "index": 460,
+    "soal": "Alat, Perkebunan, Potong, Ranting",
+    "jawaban": "GUNTING TAMAN"
+  },
+  {
+    "index": 461,
+    "soal": "Tempat, Bersejarah, Romawi, Gladiator",
+    "jawaban": "COLOSSEUM"
+  },
+  {
+    "index": 462,
+    "soal": "Benda, Elektronik, Penyimpanan, Data",
+    "jawaban": "HARDDISK"
+  },
+  {
+    "index": 463,
+    "soal": "Hewan, Reptil, Gurun, Berpunuk",
+    "jawaban": "UNTA"
+  },
+  {
+    "index": 464,
+    "soal": "Alat, Musik, Gesek, Biola",
+    "jawaban": "REBAB"
+  },
+  {
+    "index": 465,
+    "soal": "Buah, Eksotis, Duri, Naga",
+    "jawaban": "BUAH NAGA"
+  },
+  {
+    "index": 466,
+    "soal": "Profesi, Konstruksi, Bangunan, Helm",
+    "jawaban": "TUKANG"
+  },
+  {
+    "index": 467,
+    "soal": "Benda, Dapur, Penyaring, Teh",
+    "jawaban": "SARINGAN"
+  },
+  {
+    "index": 468,
+    "soal": "Hewan, Laut, Bertanduk, Narwhal",
+    "jawaban": "NARWHAL"
+  },
+  {
+    "index": 469,
+    "soal": "Alat, Pertukangan, Ukur, Meteran",
+    "jawaban": "ROL METER"
+  },
+  {
+    "index": 470,
+    "soal": "Tempat, Wisata, Air, Terjun",
+    "jawaban": "CURUG"
+  },
+  {
+    "index": 471,
+    "soal": "Benda, Elektronik, Portabel, Musik",
+    "jawaban": "MP3 PLAYER"
+  },
+  {
+    "index": 472,
+    "soal": "Hewan, Unggas, Hutan, Merak",
+    "jawaban": "BURUNG MERAK"
+  },
+  {
+    "index": 473,
+    "soal": "Alat, Medis, Pernapasan, Oksigen",
+    "jawaban": "VENTILATOR"
+  },
+  {
+    "index": 474,
+    "soal": "Buah, Berry, Hitam, Manis",
+    "jawaban": "BLACKBERRY"
+  },
+  {
+    "index": 475,
+    "soal": "Profesi, Seni, Patung, Pahat",
+    "jawaban": "PEMATUNG"
+  },
+  {
+    "index": 476,
+    "soal": "Benda, Kantor, Amplop, Surat",
+    "jawaban": "STAMPEL"
+  },
+  {
+    "index": 477,
+    "soal": "Hewan, Nokturnal, Terbang, Kelelawar",
+    "jawaban": "KALONG"
+  },
+  {
+    "index": 478,
+    "soal": "Alat, Pertanian, Tanam, Bibit",
+    "jawaban": "TUGAL"
+  },
+  {
+    "index": 479,
+    "soal": "Tempat, Bersejarah, Cina, Tembok",
+    "jawaban": "TEMBOK BESAR"
+  },
+  {
+    "index": 480,
+    "soal": "Benda, Elektronik, Virtual, Realitas",
+    "jawaban": "VR HEADSET"
+  },
+  {
+    "index": 481,
+    "soal": "Hewan, Mamalia, Laut, Lumba-lumba",
+    "jawaban": "PORPOISE"
+  },
+  {
+    "index": 482,
+    "soal": "Alat, Musik, Tiup, Harmonika",
+    "jawaban": "HARPA"
+  },
+  {
+    "index": 483,
+    "soal": "Buah, Citrus, Jeruk, Bali",
+    "jawaban": "GRAPEFRUIT"
+  },
+  {
+    "index": 484,
+    "soal": "Profesi, Udara, Parasut, Terjun",
+    "jawaban": "SKYDIVER"
+  },
+  {
+    "index": 485,
+    "soal": "Benda, Dapur, Penumbuk, Bawang",
+    "jawaban": "COBLEK"
+  },
+  {
+    "index": 486,
+    "soal": "Hewan, Reptil, Kadal, Bunglon",
+    "jawaban": "IGUANA"
+  },
+  {
+    "index": 487,
+    "soal": "Alat, Pertukangan, Potong, Kayu",
+    "jawaban": "KETAM"
+  },
+  {
+    "index": 488,
+    "soal": "Tempat, Wisata, Salju, Ski",
+    "jawaban": "RESORT"
+  },
+  {
+    "index": 489,
+    "soal": "Benda, Elektronik, Komunikasi, Pager",
+    "jawaban": "BEEPER"
+  },
+  {
+    "index": 490,
+    "soal": "Hewan, Unggas, Hias, Cendrawasih",
+    "jawaban": "BIRD OF PARADISE"
+  },
+  {
+    "index": 491,
+    "soal": "Alat, Medis, Sinar, X-Ray",
+    "jawaban": "RONTGEN"
+  },
+  {
+    "index": 492,
+    "soal": "Buah, Berry, Merah, Raspberry",
+    "jawaban": "BLUEBERRY"
+  },
+  {
+    "index": 493,
+    "soal": "Profesi, Air, Kapal, Selam",
+    "jawaban": "PENYELAM"
+  },
+  {
+    "index": 494,
+    "soal": "Benda, Kantor, Penghapus, Whiteboard",
+    "jawaban": "MARKER"
+  },
+  {
+    "index": 495,
+    "soal": "Hewan, Mamalia, Gurun, Fennec",
+    "jawaban": "RUBAH"
+  },
+  {
+    "index": 496,
+    "soal": "Alat, Musik, Perkusi, Gendang",
+    "jawaban": "TIMBALES"
+  },
+  {
+    "index": 497,
+    "soal": "Tempat, Bersejarah, Peru, Inca",
+    "jawaban": "MACHU PICCHU"
+  },
+  {
+    "index": 498,
+    "soal": "Benda, Elektronik, Penyimpanan, Cloud",
+    "jawaban": "NAS"
+  },
+  {
+    "index": 499,
+    "soal": "Hewan, Laut, Moluska, Cumi",
+    "jawaban": "SOTONG"
   }
 ]
