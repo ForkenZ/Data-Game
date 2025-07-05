@@ -1,517 +1,2502 @@
 [
   {
     "index": 0,
-    "soal": "Bagai anak  ... kehilangan induknya",
-    "jawaban": "ayam "
+    "soal": "Bagai kucing  ... kehilangan induknya",
+    "jawaban": "kucing"
   },
   {
     "index": 1,
-    "soal": "Bagai air di  ... talas",
-    "jawaban": "daun "
+    "soal": "Bagai itik  ... kehilangan induknya",
+    "jawaban": "itik"
   },
   {
     "index": 2,
-    "soal": "Hidup dikandung  ... mati dikandung tanah",
-    "jawaban": "adat "
-  },
-  {
-    "index": 3,
-    "soal": "Jauh di  ... , dekat di hati",
-    "jawaban": "mata"
-  },
-  {
-    "index": 4,
-    "soal": "Tak ada rotan  ... pun jadi",
-    "jawaban": "akar "
-  },
-  {
-    "index": 5,
-    "soal": "Utang emas boleh dibayar, Utang  ... dibawa mati",
-    "jawaban": "budi "
-  },
-  {
-    "index": 6,
-    "soal": "Ada udang dibalik  ... ",
-    "jawaban": "batu"
-  },
-  {
-    "index": 7,
-    "soal": "Ada  ... ada semut",
-    "jawaban": "gula "
-  },
-  {
-    "index": 8,
-    "soal": "Ada  ... ada api",
-    "jawaban": "asap "
-  },
-  {
-    "index": 9,
-    "soal": "Bagai  ... dan langit",
-    "jawaban": "bumi "
-  },
-  {
-    "index": 10,
-    "soal": "Daripada hujan  ... di negeri orang, lebih baik hujan batu di negeri sendiri",
-    "jawaban": "emas "
-  },
-  {
-    "index": 11,
-    "soal": "Dikasih  ... minta jantung",
-    "jawaban": "hati "
-  },
-  {
-    "index": 12,
-    "soal": " ... lubang tutup lubang",
-    "jawaban": "Gali "
-  },
-  {
-    "index": 13,
-    "soal": "Hangat hangat  ... ayam",
-    "jawaban": "tahi "
-  },
-  {
-    "index": 14,
-    "soal": "Hemat pangkal  ... , rajin pangkal pandai",
-    "jawaban": "kaya"
-  },
-  {
-    "index": 15,
-    "soal": " ... bertanya sesat dijalan",
-    "jawaban": "Malu "
-  },
-  {
-    "index": 16,
-    "soal": " ... sudah menjadi bubur",
-    "jawaban": "Nasi "
-  },
-  {
-    "index": 17,
-    "soal": "Pucuk dicinta  ... pun tiba",
-    "jawaban": "ulam "
-  },
-  {
-    "index": 18,
-    "soal": "Seperti ilmu  ... makin berisi makin merunduk",
-    "jawaban": "padi "
-  },
-  {
-    "index": 19,
-    "soal": "Tong  ...  nyaring bunyinya",
-    "jawaban": "kosong"
-  },
-  {
-    "index": 20,
-    "soal": "Senjata makan  ... ",
-    "jawaban": "tuan"
-  },
-  {
-    "index": 21,
-    "soal": "Tak ada gading  ...  tak retak",
-    "jawaban": "yang"
-  },
-  {
-    "index": 22,
-    "soal": "Tak ada rotan, akar pun  ... ",
-    "jawaban": "jadi"
-  },
-  {
-    "index": 23,
-    "soal": "Tuntutlah  ...  hingga ke negeri Cina",
-    "jawaban": "ilmu"
-  },
-  {
-    "index": 24,
-    "soal": "Tak ada  ...  akar pun jadi",
-    "jawaban": "rotan"
-  },
-  {
-    "index": 25,
-    "soal": "Besar  ...  daripada tiang",
-    "jawaban": "pasak"
-  },
-  {
-    "index": 26,
-    "soal": "Jauh di mata  ...  di hati",
-    "jawaban": "dekat"
-  },
-  {
-    "index": 27,
-    "soal": "Sepandai-pandainya  ...  melompat, sekali waktu jatuh juga",
-    "jawaban": "tupai"
-  },
-  {
-    "index": 28,
-    "soal": "Hancur  ...  dikandung tanah, budi baik dikenang juga",
-    "jawaban": "badan"
-  },
-  {
-    "index": 29,
-    "soal": "Bersatu kita  ... , bercerai kita runtuh",
-    "jawaban": "teguh"
-  },
-  {
-    "index": 30,
-    "soal": "Besar pasak daripada  ... ",
-    "jawaban": "tiang"
-  },
-  {
-    "index": 31,
-    "soal": "Habis manis  ...  dibuang",
-    "jawaban": "sepah"
-  },
-  {
-    "index": 32,
-    "soal": "Hemat pangkal kaya,  ...  pangkal pandai",
-    "jawaban": "rajin"
-  },
-  {
-    "index": 33,
-    "soal": "Hidup  ...  mati tak hendak/mau",
-    "jawaban": "segan"
-  },
-  {
-    "index": 34,
-    "soal": "Karena nila setitik,  ...  susu sebelanga",
-    "jawaban": "rusak"
-  },
-  {
-    "index": 35,
-    "soal": "Lain ladang lain belalang, lain  ...  lain ikannya",
-    "jawaban": "lubuk"
-  },
-  {
-    "index": 36,
-    "soal": "Menjilat  ...  sendiri",
-    "jawaban": "ludah"
-  },
-  {
-    "index": 37,
-    "soal": "Memancing di air  ... ",
-    "jawaban": "keruh"
-  },
-  {
-    "index": 38,
-    "soal": " ...  makan tanaman",
-    "jawaban": "Pagar"
-  },
-  {
-    "index": 39,
-    "soal": "Seperti kuda  ...  dari pinggitan",
-    "jawaban": "lepas"
-  },
-  {
-    "index": 40,
-    "soal": "Air beriak tanda tak  ... ",
-    "jawaban": "dalam"
-  },
-  {
-    "index": 41,
-    "soal": "Ayam berkokok hari  ... ",
-    "jawaban": "siang"
-  },
-  {
-    "index": 42,
-    "soal": "Bagai air di daun  ... ",
-    "jawaban": "talas"
-  },
-  {
-    "index": 43,
-    "soal": "Bagai  ...  dalam tempurung",
-    "jawaban": "katak"
-  },
-  {
-    "index": 44,
-    "soal": "Di mana bumi di  ...  disitu langit dijunjung",
-    "jawaban": "pijak"
-  },
-  {
-    "index": 45,
-    "soal": "Guru kencing berdiri,  ...  kencing berlari",
-    "jawaban": "murid"
-  },
-  {
-    "index": 46,
-    "soal": "Kecil-kecil cabai  ... ",
-    "jawaban": "rawit"
-  },
-  {
-    "index": 47,
-    "soal": "Sudah  ...  tertimpa tangga",
-    "jawaban": "jatuh"
-  },
-  {
-    "index": 48,
-    "soal": "Sambil menyelam  ...  air",
-    "jawaban": "minum"
-  },
-  {
-    "index": 49,
-    "soal": "Seperti ayam kehilangan  ... ",
-    "jawaban": "induk"
-  },
-  {
-    "index": 50,
-    "soal": "Sedia payung sebelum  ... ",
-    "jawaban": "hujan"
-  },
-  {
-    "index": 51,
-    "soal": "Sedikit demi sedikit lama-lama menjadi  ... ",
-    "jawaban": "bukit"
-  },
-  {
-    "index": 52,
-    "soal": " ... mati dilumbung padi",
-    "jawaban": "Tikus "
-  },
-  {
-    "index": 53,
-    "soal": " ...  ke bawah tumpul ke atas",
-    "jawaban": "Tajam"
-  },
-  {
-    "index": 54,
-    "soal": " ...  adalah uang",
-    "jawaban": "Waktu"
-  },
-  {
-    "index": 55,
-    "soal": "Badai  ...  berlalu",
-    "jawaban": "pasti"
-  },
-  {
-    "index": 56,
-    "soal": " ...  dalam selimut",
-    "jawaban": "Musuh"
-  },
-  {
-    "index": 57,
-    "soal": "Umur setahun jagung,  ...  setapuk pinang",
-    "jawaban": "darah"
-  },
-  {
-    "index": 58,
-    "soal": "Bagaikan  ...  dalam sangkar",
+    "soal": "Bagai burung  ... kehilangan induknya",
     "jawaban": "burung"
   },
   {
+    "index": 3,
+    "soal": "Bagai kambing  ... kehilangan induknya",
+    "jawaban": "kambing"
+  },
+  {
+    "index": 4,
+    "soal": "Bagai sapi  ... kehilangan induknya",
+    "jawaban": "sapi"
+  },
+  {
+    "index": 5,
+    "soal": "Bagai kerbau  ... kehilangan induknya",
+    "jawaban": "kerbau"
+  },
+  {
+    "index": 6,
+    "soal": "Bagai elang  ... kehilangan induknya",
+    "jawaban": "elang"
+  },
+  {
+    "index": 7,
+    "soal": "Bagai kuda  ... kehilangan induknya",
+    "jawaban": "kuda"
+  },
+  {
+    "index": 8,
+    "soal": "Bagai bebek  ... kehilangan induknya",
+    "jawaban": "bebek"
+  },
+  {
+    "index": 9,
+    "soal": "Bagai tupai  ... kehilangan induknya",
+    "jawaban": "tupai"
+  },
+  {
+    "index": 10,
+    "soal": "Bagai merpati  ... kehilangan induknya",
+    "jawaban": "merpati"
+  },
+  {
+    "index": 11,
+    "soal": "Bagai angsa  ... kehilangan induknya",
+    "jawaban": "angsa"
+  },
+  {
+    "index": 12,
+    "soal": "Bagai serigala  ... kehilangan induknya",
+    "jawaban": "serigala"
+  },
+  {
+    "index": 13,
+    "soal": "Bagai harimau  ... kehilangan induknya",
+    "jawaban": "harimau"
+  },
+  {
+    "index": 14,
+    "soal": "Bagai macan  ... kehilangan induknya",
+    "jawaban": "macan"
+  },
+  {
+    "index": 15,
+    "soal": "Bagai gajah  ... kehilangan induknya",
+    "jawaban": "gajah"
+  },
+  {
+    "index": 16,
+    "soal": "Bagai panda  ... kehilangan induknya",
+    "jawaban": "panda"
+  },
+  {
+    "index": 17,
+    "soal": "Bagai kupu-kupu  ... kehilangan induknya",
+    "jawaban": "kupu-kupu"
+  },
+  {
+    "index": 18,
+    "soal": "Bagai rusa  ... kehilangan induknya",
+    "jawaban": "rusa"
+  },
+  {
+    "index": 19,
+    "soal": "Bagai kelinci  ... kehilangan induknya",
+    "jawaban": "kelinci"
+  },
+  {
+    "index": 20,
+    "soal": "Bagai cicak  ... kehilangan induknya",
+    "jawaban": "cicak"
+  },
+  {
+    "index": 21,
+    "soal": "Bagai tikus  ... kehilangan induknya",
+    "jawaban": "tikus"
+  },
+  {
+    "index": 22,
+    "soal": "Bagai musang  ... kehilangan induknya",
+    "jawaban": "musang"
+  },
+  {
+    "index": 23,
+    "soal": "Bagai ikan  ... kehilangan induknya",
+    "jawaban": "ikan"
+  },
+  {
+    "index": 24,
+    "soal": "Bagai badak  ... kehilangan induknya",
+    "jawaban": "badak"
+  },
+  {
+    "index": 25,
+    "soal": "Bagai unta  ... kehilangan induknya",
+    "jawaban": "unta"
+  },
+  {
+    "index": 26,
+    "soal": "Bagai belalang  ... kehilangan induknya",
+    "jawaban": "belalang"
+  },
+  {
+    "index": 27,
+    "soal": "Bagai semut  ... kehilangan induknya",
+    "jawaban": "semut"
+  },
+  {
+    "index": 28,
+    "soal": "Bagai lebah  ... kehilangan induknya",
+    "jawaban": "lebah"
+  },
+  {
+    "index": 29,
+    "soal": "Bagai banteng  ... kehilangan induknya",
+    "jawaban": "banteng"
+  },
+  {
+    "index": 30,
+    "soal": "Bagai domba  ... kehilangan induknya",
+    "jawaban": "domba"
+  },
+  {
+    "index": 31,
+    "soal": "Bagai anjing  ... kehilangan induknya",
+    "jawaban": "anjing"
+  },
+  {
+    "index": 32,
+    "soal": "Bagai beruang  ... kehilangan induknya",
+    "jawaban": "beruang"
+  },
+  {
+    "index": 33,
+    "soal": "Bagai koala  ... kehilangan induknya",
+    "jawaban": "koala"
+  },
+  {
+    "index": 34,
+    "soal": "Bagai lumba-lumba  ... kehilangan induknya",
+    "jawaban": "lumba-lumba"
+  },
+  {
+    "index": 35,
+    "soal": "Bagai hiu  ... kehilangan induknya",
+    "jawaban": "hiu"
+  },
+  {
+    "index": 36,
+    "soal": "Bagai pinguin  ... kehilangan induknya",
+    "jawaban": "pinguin"
+  },
+  {
+    "index": 37,
+    "soal": "Bagai kura-kura  ... kehilangan induknya",
+    "jawaban": "kura-kura"
+  },
+  {
+    "index": 38,
+    "soal": "Bagai siput  ... kehilangan induknya",
+    "jawaban": "siput"
+  },
+  {
+    "index": 39,
+    "soal": "Bagai camar  ... kehilangan induknya",
+    "jawaban": "camar"
+  },
+  {
+    "index": 40,
+    "soal": "Bagai leopard  ... kehilangan induknya",
+    "jawaban": "leopard"
+  },
+  {
+    "index": 41,
+    "soal": "Ada gula  ... ada semut",
+    "jawaban": "gula"
+  },
+  {
+    "index": 42,
+    "soal": "Ada madu  ... ada semut",
+    "jawaban": "madu"
+  },
+  {
+    "index": 43,
+    "soal": "Ada kue  ... ada semut",
+    "jawaban": "kue"
+  },
+  {
+    "index": 44,
+    "soal": "Ada nasi  ... ada semut",
+    "jawaban": "nasi"
+  },
+  {
+    "index": 45,
+    "soal": "Ada roti  ... ada semut",
+    "jawaban": "roti"
+  },
+  {
+    "index": 46,
+    "soal": "Ada dodol  ... ada semut",
+    "jawaban": "dodol"
+  },
+  {
+    "index": 47,
+    "soal": "Ada cokelat  ... ada semut",
+    "jawaban": "cokelat"
+  },
+  {
+    "index": 48,
+    "soal": "Ada sirup  ... ada semut",
+    "jawaban": "sirup"
+  },
+  {
+    "index": 49,
+    "soal": "Ada beras  ... ada semut",
+    "jawaban": "beras"
+  },
+  {
+    "index": 50,
+    "soal": "Ada air  ... ada semut",
+    "jawaban": "air"
+  },
+  {
+    "index": 51,
+    "soal": "Tak ada rotan  ... pun jadi",
+    "jawaban": "rotan"
+  },
+  {
+    "index": 52,
+    "soal": "Tak ada bambu  ... pun jadi",
+    "jawaban": "bambu"
+  },
+  {
+    "index": 53,
+    "soal": "Tak ada kayu  ... pun jadi",
+    "jawaban": "kayu"
+  },
+  {
+    "index": 54,
+    "soal": "Tak ada rafia  ... pun jadi",
+    "jawaban": "rafia"
+  },
+  {
+    "index": 55,
+    "soal": "Tak ada jerami  ... pun jadi",
+    "jawaban": "jerami"
+  },
+  {
+    "index": 56,
+    "soal": "Tak ada daun  ... pun jadi",
+    "jawaban": "daun"
+  },
+  {
+    "index": 57,
+    "soal": "Tak ada sabut  ... pun jadi",
+    "jawaban": "sabut"
+  },
+  {
+    "index": 58,
+    "soal": "Tak ada tempurung  ... pun jadi",
+    "jawaban": "tempurung"
+  },
+  {
     "index": 59,
-    "soal": "Ada uang ada  ... ",
-    "jawaban": "barang"
+    "soal": "Tak ada ranting  ... pun jadi",
+    "jawaban": "ranting"
   },
   {
     "index": 60,
-    "soal": "Air  ...  tanda tak dalam",
-    "jawaban": "beriak"
+    "soal": "Tak ada kulit  ... pun jadi",
+    "jawaban": "kulit"
   },
   {
     "index": 61,
-    "soal": "Bagai  ...  dibelah dua",
-    "jawaban": "pinang"
+    "soal": "Tak ada akar  ... pun jadi",
+    "jawaban": "akar"
   },
   {
     "index": 62,
-    "soal": "Diam  ...  bahasa",
-    "jawaban": "seribu"
+    "soal": "Tak ada batu  ... pun jadi",
+    "jawaban": "batu"
   },
   {
     "index": 63,
+    "soal": "Tak ada tanah  ... pun jadi",
+    "jawaban": "tanah"
+  },
+  {
+    "index": 64,
+    "soal": "Tak ada pasir  ... pun jadi",
+    "jawaban": "pasir"
+  },
+  {
+    "index": 65,
+    "soal": "Habis manis  ... dibuang",
+    "jawaban": "manis"
+  },
+  {
+    "index": 66,
+    "soal": "Habis getir  ... dibuang",
+    "jawaban": "getir"
+  },
+  {
+    "index": 67,
+    "soal": "Habis pahit  ... dibuang",
+    "jawaban": "pahit"
+  },
+  {
+    "index": 68,
+    "soal": "Habis asin  ... dibuang",
+    "jawaban": "asin"
+  },
+  {
+    "index": 69,
+    "soal": "Habis gurih  ... dibuang",
+    "jawaban": "gurih"
+  },
+  {
+    "index": 70,
+    "soal": "Habis pedas  ... dibuang",
+    "jawaban": "pedas"
+  },
+  {
+    "index": 71,
+    "soal": "Habis masam  ... dibuang",
+    "jawaban": "masam"
+  },
+  {
+    "index": 72,
+    "soal": "Habis segar  ... dibuang",
+    "jawaban": "segar"
+  },
+  {
+    "index": 73,
+    "soal": "Habis ranum  ... dibuang",
+    "jawaban": "ranum"
+  },
+  {
+    "index": 74,
+    "soal": "Habis kering  ... dibuang",
+    "jawaban": "kering"
+  },
+  {
+    "index": 75,
+    "soal": "Habis basi  ... dibuang",
+    "jawaban": "basi"
+  },
+  {
+    "index": 76,
+    "soal": "Habis asam  ... dibuang",
+    "jawaban": "asam"
+  },
+  {
+    "index": 77,
+    "soal": "Air tenang  ... tak dalam",
+    "jawaban": "tenang"
+  },
+  {
+    "index": 78,
+    "soal": "Air keruh  ... tak dalam",
+    "jawaban": "keruh"
+  },
+  {
+    "index": 79,
+    "soal": "Air dangkal  ... tak dalam",
+    "jawaban": "dangkal"
+  },
+  {
+    "index": 80,
+    "soal": "Air dalam  ... tak dalam",
+    "jawaban": "dalam"
+  },
+  {
+    "index": 81,
+    "soal": "Air deras  ... tak dalam",
+    "jawaban": "deras"
+  },
+  {
+    "index": 82,
+    "soal": "Air kering  ... tak dalam",
+    "jawaban": "kering"
+  },
+  {
+    "index": 83,
+    "soal": "Air hambar  ... tak dalam",
+    "jawaban": "hambar"
+  },
+  {
+    "index": 84,
+    "soal": "Air asin  ... tak dalam",
+    "jawaban": "asin"
+  },
+  {
+    "index": 85,
+    "soal": "Air manis  ... tak dalam",
+    "jawaban": "manis"
+  },
+  {
+    "index": 86,
+    "soal": "Air pahit  ... tak dalam",
+    "jawaban": "pahit"
+  },
+  {
+    "index": 87,
+    "soal": "Bagai kucing  ... merindukan bulan",
+    "jawaban": "kucing"
+  },
+  {
+    "index": 88,
+    "soal": "Bagai itik  ... merindukan bulan",
+    "jawaban": "itik"
+  },
+  {
+    "index": 89,
+    "soal": "Bagai kambing  ... merindukan bulan",
+    "jawaban": "kambing"
+  },
+  {
+    "index": 90,
+    "soal": "Bagai sapi  ... merindukan bulan",
+    "jawaban": "sapi"
+  },
+  {
+    "index": 91,
+    "soal": "Bagai kerbau  ... merindukan bulan",
+    "jawaban": "kerbau"
+  },
+  {
+    "index": 92,
+    "soal": "Bagai elang  ... merindukan bulan",
+    "jawaban": "elang"
+  },
+  {
+    "index": 93,
+    "soal": "Bagai kuda  ... merindukan bulan",
+    "jawaban": "kuda"
+  },
+  {
+    "index": 94,
+    "soal": "Bagai bebek  ... merindukan bulan",
+    "jawaban": "bebek"
+  },
+  {
+    "index": 95,
+    "soal": "Bagai tupai  ... merindukan bulan",
+    "jawaban": "tupai"
+  },
+  {
+    "index": 96,
+    "soal": "Bagai merpati  ... merindukan bulan",
+    "jawaban": "merpati"
+  },
+  {
+    "index": 97,
+    "soal": "Bagai angsa  ... merindukan bulan",
+    "jawaban": "angsa"
+  },
+  {
+    "index": 98,
+    "soal": "Bagai serigala  ... merindukan bulan",
+    "jawaban": "serigala"
+  },
+  {
+    "index": 99,
+    "soal": "Bagai harimau  ... merindukan bulan",
+    "jawaban": "harimau"
+  },
+  {
+    "index": 100,
+    "soal": "Bagai macan  ... merindukan bulan",
+    "jawaban": "macan"
+  },
+  {
+    "index": 101,
+    "soal": "Bagai gajah  ... merindukan bulan",
+    "jawaban": "gajah"
+  },
+  {
+    "index": 102,
+    "soal": "Bagai panda  ... merindukan bulan",
+    "jawaban": "panda"
+  },
+  {
+    "index": 103,
+    "soal": "Bagai kupu-kupu  ... merindukan bulan",
+    "jawaban": "kupu-kupu"
+  },
+  {
+    "index": 104,
+    "soal": "Bagai rusa  ... merindukan bulan",
+    "jawaban": "rusa"
+  },
+  {
+    "index": 105,
+    "soal": "Bagai kelinci  ... merindukan bulan",
+    "jawaban": "kelinci"
+  },
+  {
+    "index": 106,
+    "soal": "Bagai cicak  ... merindukan bulan",
+    "jawaban": "cicak"
+  },
+  {
+    "index": 107,
+    "soal": "Bagai tikus  ... merindukan bulan",
+    "jawaban": "tikus"
+  },
+  {
+    "index": 108,
+    "soal": "Bagai musang  ... merindukan bulan",
+    "jawaban": "musang"
+  },
+  {
+    "index": 109,
+    "soal": "Bagai ikan  ... merindukan bulan",
+    "jawaban": "ikan"
+  },
+  {
+    "index": 110,
+    "soal": "Bagai badak  ... merindukan bulan",
+    "jawaban": "badak"
+  },
+  {
+    "index": 111,
+    "soal": "Bagai unta  ... merindukan bulan",
+    "jawaban": "unta"
+  },
+  {
+    "index": 112,
+    "soal": "Bagai belalang  ... merindukan bulan",
+    "jawaban": "belalang"
+  },
+  {
+    "index": 113,
+    "soal": "Bagai semut  ... merindukan bulan",
+    "jawaban": "semut"
+  },
+  {
+    "index": 114,
+    "soal": "Bagai lebah  ... merindukan bulan",
+    "jawaban": "lebah"
+  },
+  {
+    "index": 115,
+    "soal": "Bagai banteng  ... merindukan bulan",
+    "jawaban": "banteng"
+  },
+  {
+    "index": 116,
+    "soal": "Bagai domba  ... merindukan bulan",
+    "jawaban": "domba"
+  },
+  {
+    "index": 117,
+    "soal": "Bagai anjing  ... merindukan bulan",
+    "jawaban": "anjing"
+  },
+  {
+    "index": 118,
+    "soal": "Bagai beruang  ... merindukan bulan",
+    "jawaban": "beruang"
+  },
+  {
+    "index": 119,
+    "soal": "Bagai koala  ... merindukan bulan",
+    "jawaban": "koala"
+  },
+  {
+    "index": 120,
+    "soal": "Bagai lumba-lumba  ... merindukan bulan",
+    "jawaban": "lumba-lumba"
+  },
+  {
+    "index": 121,
+    "soal": "Bagai hiu  ... merindukan bulan",
+    "jawaban": "hiu"
+  },
+  {
+    "index": 122,
+    "soal": "Bagai pinguin  ... merindukan bulan",
+    "jawaban": "pinguin"
+  },
+  {
+    "index": 123,
+    "soal": "Bagai kura-kura  ... merindukan bulan",
+    "jawaban": "kura-kura"
+  },
+  {
+    "index": 124,
+    "soal": "Bagai siput  ... merindukan bulan",
+    "jawaban": "siput"
+  },
+  {
+    "index": 125,
+    "soal": "Bagai camar  ... merindukan bulan",
+    "jawaban": "camar"
+  },
+  {
+    "index": 126,
+    "soal": "Bagai leopard  ... merindukan bulan",
+    "jawaban": "leopard"
+  },
+  {
+    "index": 127,
+    "soal": "Malu  ... sesat di jalan",
+    "jawaban": "bertanya"
+  },
+  {
+    "index": 128,
+    "soal": "Bagai bumi  ... dan langit",
+    "jawaban": "bumi"
+  },
+  {
+    "index": 129,
+    "soal": "Bagai api  ... dan air",
+    "jawaban": "api"
+  },
+  {
+    "index": 130,
+    "soal": "Bagai mata  ... dan hati",
+    "jawaban": "mata"
+  },
+  {
+    "index": 131,
+    "soal": "Bagai siang  ... dan malam",
+    "jawaban": "siang"
+  },
+  {
+    "index": 132,
+    "soal": "Bagai pagi  ... dan petang",
+    "jawaban": "pagi"
+  },
+  {
+    "index": 133,
+    "soal": "Bagai udara  ... dan lautan",
+    "jawaban": "udara"
+  },
+  {
+    "index": 134,
+    "soal": "Bagai pasir  ... dan karang",
+    "jawaban": "pasir"
+  },
+  {
+    "index": 135,
+    "soal": "Bagai puncak  ... dan lembah",
+    "jawaban": "puncak"
+  },
+  {
+    "index": 136,
+    "soal": "Bagai hulu  ... dan hilir",
+    "jawaban": "hulu"
+  },
+  {
+    "index": 137,
+    "soal": "Bagai timur  ... dan barat",
+    "jawaban": "timur"
+  },
+  {
+    "index": 138,
+    "soal": "Bagai selatan  ... dan utara",
+    "jawaban": "selatan"
+  },
+  {
+    "index": 139,
+    "soal": "Bagai halus  ... dan kasar",
+    "jawaban": "halus"
+  },
+  {
+    "index": 140,
+    "soal": "Bagai tinggi  ... dan rendah",
+    "jawaban": "tinggi"
+  },
+  {
+    "index": 141,
+    "soal": "Bagai keras  ... dan lunak",
+    "jawaban": "keras"
+  },
+  {
+    "index": 142,
+    "soal": "Bagai lapar  ... dan kenyang",
+    "jawaban": "lapar"
+  },
+  {
+    "index": 143,
+    "soal": "Bagai miskin  ... dan kaya",
+    "jawaban": "miskin"
+  },
+  {
+    "index": 144,
+    "soal": "Bagai baik  ... dan buruk",
+    "jawaban": "baik"
+  },
+  {
+    "index": 145,
+    "soal": "Bagai galah  ... dan kalah",
+    "jawaban": "galah"
+  },
+  {
+    "index": 146,
+    "soal": "Sepandai-pandainya kucing  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "kucing"
+  },
+  {
+    "index": 147,
+    "soal": "Sepandai-pandainya itik  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "itik"
+  },
+  {
+    "index": 148,
+    "soal": "Sepandai-pandainya burung  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "burung"
+  },
+  {
+    "index": 149,
+    "soal": "Sepandai-pandainya kambing  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "kambing"
+  },
+  {
+    "index": 150,
+    "soal": "Sepandai-pandainya sapi  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "sapi"
+  },
+  {
+    "index": 151,
+    "soal": "Sepandai-pandainya kerbau  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "kerbau"
+  },
+  {
+    "index": 152,
+    "soal": "Sepandai-pandainya elang  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "elang"
+  },
+  {
+    "index": 153,
+    "soal": "Sepandai-pandainya kuda  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "kuda"
+  },
+  {
+    "index": 154,
+    "soal": "Sepandai-pandainya bebek  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "bebek"
+  },
+  {
+    "index": 155,
+    "soal": "Sepandai-pandainya tupai  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "tupai"
+  },
+  {
+    "index": 156,
+    "soal": "Sepandai-pandainya merpati  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "merpati"
+  },
+  {
+    "index": 157,
+    "soal": "Sepandai-pandainya angsa  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "angsa"
+  },
+  {
+    "index": 158,
+    "soal": "Sepandai-pandainya serigala  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "serigala"
+  },
+  {
+    "index": 159,
+    "soal": "Sepandai-pandainya harimau  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "harimau"
+  },
+  {
+    "index": 160,
+    "soal": "Sepandai-pandainya macan  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "macan"
+  },
+  {
+    "index": 161,
+    "soal": "Sepandai-pandainya gajah  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "gajah"
+  },
+  {
+    "index": 162,
+    "soal": "Sepandai-pandainya panda  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "panda"
+  },
+  {
+    "index": 163,
+    "soal": "Sepandai-pandainya kupu-kupu  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "kupu-kupu"
+  },
+  {
+    "index": 164,
+    "soal": "Sepandai-pandainya rusa  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "rusa"
+  },
+  {
+    "index": 165,
+    "soal": "Sepandai-pandainya kelinci  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "kelinci"
+  },
+  {
+    "index": 166,
+    "soal": "Sepandai-pandainya cicak  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "cicak"
+  },
+  {
+    "index": 167,
+    "soal": "Sepandai-pandainya tikus  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "tikus"
+  },
+  {
+    "index": 168,
+    "soal": "Sepandai-pandainya musang  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "musang"
+  },
+  {
+    "index": 169,
+    "soal": "Sepandai-pandainya ikan  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "ikan"
+  },
+  {
+    "index": 170,
+    "soal": "Sepandai-pandainya badak  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "badak"
+  },
+  {
+    "index": 171,
+    "soal": "Sepandai-pandainya unta  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "unta"
+  },
+  {
+    "index": 172,
+    "soal": "Sepandai-pandainya belalang  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "belalang"
+  },
+  {
+    "index": 173,
+    "soal": "Sepandai-pandainya semut  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "semut"
+  },
+  {
+    "index": 174,
+    "soal": "Sepandai-pandainya lebah  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "lebah"
+  },
+  {
+    "index": 175,
+    "soal": "Sepandai-pandainya banteng  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "banteng"
+  },
+  {
+    "index": 176,
+    "soal": "Sepandai-pandainya domba  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "domba"
+  },
+  {
+    "index": 177,
+    "soal": "Sepandai-pandainya anjing  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "anjing"
+  },
+  {
+    "index": 178,
+    "soal": "Sepandai-pandainya beruang  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "beruang"
+  },
+  {
+    "index": 179,
+    "soal": "Sepandai-pandainya koala  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "koala"
+  },
+  {
+    "index": 180,
+    "soal": "Sepandai-pandainya lumba-lumba  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "lumba-lumba"
+  },
+  {
+    "index": 181,
+    "soal": "Sepandai-pandainya hiu  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "hiu"
+  },
+  {
+    "index": 182,
+    "soal": "Sepandai-pandainya pinguin  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "pinguin"
+  },
+  {
+    "index": 183,
+    "soal": "Sepandai-pandainya kura-kura  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "kura-kura"
+  },
+  {
+    "index": 184,
+    "soal": "Sepandai-pandainya siput  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "siput"
+  },
+  {
+    "index": 185,
+    "soal": "Sepandai-pandainya camar  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "camar"
+  },
+  {
+    "index": 186,
+    "soal": "Sepandai-pandainya leopard  ... melompat, sekali waktu jatuh juga",
+    "jawaban": "leopard"
+  },
+  {
+    "index": 187,
+    "soal": "Besar pasak  ... daripada tiang",
+    "jawaban": "pasak"
+  },
+  {
+    "index": 188,
+    "soal": "Besar paku  ... daripada tiang",
+    "jawaban": "paku"
+  },
+  {
+    "index": 189,
+    "soal": "Besar batu  ... daripada tiang",
+    "jawaban": "batu"
+  },
+  {
+    "index": 190,
+    "soal": "Besar gada  ... daripada tiang",
+    "jawaban": "gada"
+  },
+  {
+    "index": 191,
+    "soal": "Besar berat  ... daripada tiang",
+    "jawaban": "berat"
+  },
+  {
+    "index": 192,
+    "soal": "Besar cabe  ... daripada tiang",
+    "jawaban": "cabe"
+  },
+  {
+    "index": 193,
+    "soal": "Besar gengsi  ... daripada tiang",
+    "jawaban": "gengsi"
+  },
+  {
+    "index": 194,
+    "soal": "Besar beban  ... daripada tiang",
+    "jawaban": "beban"
+  },
+  {
+    "index": 195,
+    "soal": "Besar hutang  ... daripada tiang",
+    "jawaban": "hutang"
+  },
+  {
+    "index": 196,
+    "soal": "Besar cita  ... daripada tiang",
+    "jawaban": "cita"
+  },
+  {
+    "index": 197,
+    "soal": "Ada kopi  ... ada semut",
+    "jawaban": "kopi"
+  },
+  {
+    "index": 198,
+    "soal": "Ada teh  ... ada semut",
+    "jawaban": "teh"
+  },
+  {
+    "index": 199,
+    "soal": "Ada es  ... ada semut",
+    "jawaban": "es"
+  },
+  {
+    "index": 200,
+    "soal": "Ada kacang  ... ada semut",
+    "jawaban": "kacang"
+  },
+  {
+    "index": 201,
+    "soal": "Ada gula-gula  ... ada semut",
+    "jawaban": "gula-gula"
+  },
+  {
+    "index": 202,
+    "soal": "Ada permen  ... ada semut",
+    "jawaban": "permen"
+  },
+  {
+    "index": 203,
+    "soal": "Ada donat  ... ada semut",
+    "jawaban": "donat"
+  },
+  {
+    "index": 204,
+    "soal": "Ada lilin  ... ada semut",
+    "jawaban": "lilin"
+  },
+  {
+    "index": 205,
+    "soal": "Ada pelita  ... ada semut",
+    "jawaban": "pelita"
+  },
+  {
+    "index": 206,
+    "soal": "Ada lampu  ... ada semut",
+    "jawaban": "lampu"
+  },
+  {
+    "index": 207,
+    "soal": "Ada minyak  ... ada semut",
+    "jawaban": "minyak"
+  },
+  {
+    "index": 208,
+    "soal": "Ada helaian  ... ada semut",
+    "jawaban": "helaian"
+  },
+  {
+    "index": 209,
+    "soal": "Ada kertas  ... ada semut",
+    "jawaban": "kertas"
+  },
+  {
+    "index": 210,
+    "soal": "Ada pena  ... ada semut",
+    "jawaban": "pena"
+  },
+  {
+    "index": 211,
+    "soal": "Ada tinta  ... ada semut",
+    "jawaban": "tinta"
+  },
+  {
+    "index": 212,
+    "soal": "Ada cat  ... ada semut",
+    "jawaban": "cat"
+  },
+  {
+    "index": 213,
+    "soal": "Ada kanvas  ... ada semut",
+    "jawaban": "kanvas"
+  },
+  {
+    "index": 214,
+    "soal": "Ada buku  ... ada semut",
+    "jawaban": "buku"
+  },
+  {
+    "index": 215,
+    "soal": "Ada cerita  ... ada semut",
+    "jawaban": "cerita"
+  },
+  {
+    "index": 216,
+    "soal": "Ada film  ... ada semut",
+    "jawaban": "film"
+  },
+  {
+    "index": 217,
+    "soal": "Ada lagu  ... ada semut",
+    "jawaban": "lagu"
+  },
+  {
+    "index": 218,
+    "soal": "Ada musik  ... ada semut",
+    "jawaban": "musik"
+  },
+  {
+    "index": 219,
+    "soal": "Ada melodi  ... ada semut",
+    "jawaban": "melodi"
+  },
+  {
+    "index": 220,
+    "soal": "Ada piano  ... ada semut",
+    "jawaban": "piano"
+  },
+  {
+    "index": 221,
+    "soal": "Ada gitar  ... ada semut",
+    "jawaban": "gitar"
+  },
+  {
+    "index": 222,
+    "soal": "Ada biola  ... ada semut",
+    "jawaban": "biola"
+  },
+  {
+    "index": 223,
+    "soal": "Ada suling  ... ada semut",
+    "jawaban": "suling"
+  },
+  {
+    "index": 224,
+    "soal": "Ada ruang  ... ada semut",
+    "jawaban": "ruang"
+  },
+  {
+    "index": 225,
+    "soal": "Ada waktu  ... ada semut",
+    "jawaban": "waktu"
+  },
+  {
+    "index": 226,
+    "soal": "Ada kehidupan  ... ada semut",
+    "jawaban": "kehidupan"
+  },
+  {
+    "index": 227,
+    "soal": "Ada harapan  ... ada semut",
+    "jawaban": "harapan"
+  },
+  {
+    "index": 228,
+    "soal": "Ada cahaya  ... ada semut",
+    "jawaban": "cahaya"
+  },
+  {
+    "index": 229,
+    "soal": "Ada bayangan  ... ada semut",
+    "jawaban": "bayangan"
+  },
+  {
+    "index": 230,
+    "soal": "Ada asa  ... ada semut",
+    "jawaban": "asa"
+  },
+  {
+    "index": 231,
+    "soal": "Ada doa  ... ada semut",
+    "jawaban": "doa"
+  },
+  {
+    "index": 232,
+    "soal": "Ada cinta  ... ada semut",
+    "jawaban": "cinta"
+  },
+  {
+    "index": 233,
+    "soal": "Ada senyum  ... ada semut",
+    "jawaban": "senyum"
+  },
+  {
+    "index": 234,
+    "soal": "Ada tawa  ... ada semut",
+    "jawaban": "tawa"
+  },
+  {
+    "index": 235,
+    "soal": "Ada airmata  ... ada semut",
+    "jawaban": "airmata"
+  },
+  {
+    "index": 236,
+    "soal": "Ada langkah  ... ada semut",
+    "jawaban": "langkah"
+  },
+  {
+    "index": 237,
+    "soal": "Ada jejak  ... ada semut",
+    "jawaban": "jejak"
+  },
+  {
+    "index": 238,
+    "soal": "Ada bintang  ... ada semut",
+    "jawaban": "bintang"
+  },
+  {
+    "index": 239,
+    "soal": "Ada galaksi  ... ada semut",
+    "jawaban": "galaksi"
+  },
+  {
+    "index": 240,
+    "soal": "Ada orbit  ... ada semut",
+    "jawaban": "orbit"
+  },
+  {
+    "index": 241,
+    "soal": "Ada planet  ... ada semut",
+    "jawaban": "planet"
+  },
+  {
+    "index": 242,
+    "soal": "Ada daun  ... ada semut",
+    "jawaban": "daun"
+  },
+  {
+    "index": 243,
+    "soal": "Ada akar  ... ada semut",
+    "jawaban": "akar"
+  },
+  {
+    "index": 244,
+    "soal": "Ada ranting  ... ada semut",
+    "jawaban": "ranting"
+  },
+  {
+    "index": 245,
+    "soal": "Ada pohon  ... ada semut",
+    "jawaban": "pohon"
+  },
+  {
+    "index": 246,
+    "soal": "Ada hutan  ... ada semut",
+    "jawaban": "hutan"
+  },
+  {
+    "index": 247,
+    "soal": "Ada padang  ... ada semut",
+    "jawaban": "padang"
+  },
+  {
+    "index": 248,
+    "soal": "Ada gurun  ... ada semut",
+    "jawaban": "gurun"
+  },
+  {
+    "index": 249,
+    "soal": "Ada terik  ... ada semut",
+    "jawaban": "terik"
+  },
+  {
+    "index": 250,
+    "soal": "Ada hujan  ... ada semut",
+    "jawaban": "hujan"
+  },
+  {
+    "index": 251,
+    "soal": "Ada pelangi  ... ada semut",
+    "jawaban": "pelangi"
+  },
+  {
+    "index": 252,
+    "soal": "Ada ombak  ... ada semut",
+    "jawaban": "ombak"
+  },
+  {
+    "index": 253,
+    "soal": "Ada pesisir  ... ada semut",
+    "jawaban": "pesisir"
+  },
+  {
+    "index": 254,
+    "soal": "Ada jaring  ... ada semut",
+    "jawaban": "jaring"
+  },
+  {
+    "index": 255,
+    "soal": "Ada perahu  ... ada semut",
+    "jawaban": "perahu"
+  },
+  {
+    "index": 256,
+    "soal": "Ada layar  ... ada semut",
+    "jawaban": "layar"
+  },
+  {
+    "index": 257,
+    "soal": "Ada kompas  ... ada semut",
+    "jawaban": "kompas"
+  },
+  {
+    "index": 258,
+    "soal": "Ada peta  ... ada semut",
+    "jawaban": "peta"
+  },
+  {
+    "index": 259,
+    "soal": "Ada gunung  ... ada semut",
+    "jawaban": "gunung"
+  },
+  {
+    "index": 260,
+    "soal": "Ada bukit  ... ada semut",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 261,
+    "soal": "Ada lembah  ... ada semut",
+    "jawaban": "lembah"
+  },
+  {
+    "index": 262,
+    "soal": "Ada jurang  ... ada semut",
+    "jawaban": "jurang"
+  },
+  {
+    "index": 263,
+    "soal": "Ada tebing  ... ada semut",
+    "jawaban": "tebing"
+  },
+  {
+    "index": 264,
+    "soal": "Ada jalan  ... ada semut",
+    "jawaban": "jalan"
+  },
+  {
+    "index": 265,
+    "soal": "Ada jembatan  ... ada semut",
+    "jawaban": "jembatan"
+  },
+  {
+    "index": 266,
+    "soal": "Ada pasar  ... ada semut",
+    "jawaban": "pasar"
+  },
+  {
+    "index": 267,
+    "soal": "Ada tenda  ... ada semut",
+    "jawaban": "tenda"
+  },
+  {
+    "index": 268,
+    "soal": "Ada dangau  ... ada semut",
+    "jawaban": "dangau"
+  },
+  {
+    "index": 269,
+    "soal": "Ada lumbung  ... ada semut",
+    "jawaban": "lumbung"
+  },
+  {
+    "index": 270,
+    "soal": "Ada padi  ... ada semut",
+    "jawaban": "padi"
+  },
+  {
+    "index": 271,
+    "soal": "Ada jagung  ... ada semut",
+    "jawaban": "jagung"
+  },
+  {
+    "index": 272,
+    "soal": "Ada kedelai  ... ada semut",
+    "jawaban": "kedelai"
+  },
+  {
+    "index": 273,
+    "soal": "Ada gandum  ... ada semut",
+    "jawaban": "gandum"
+  },
+  {
+    "index": 274,
+    "soal": "Ada garam  ... ada semut",
+    "jawaban": "garam"
+  },
+  {
+    "index": 275,
+    "soal": "Ada lada  ... ada semut",
+    "jawaban": "lada"
+  },
+  {
+    "index": 276,
+    "soal": "Ada rempah  ... ada semut",
+    "jawaban": "rempah"
+  },
+  {
+    "index": 277,
+    "soal": "Ada jahe  ... ada semut",
+    "jawaban": "jahe"
+  },
+  {
+    "index": 278,
+    "soal": "Ada kayu  ... ada semut",
+    "jawaban": "kayu"
+  },
+  {
+    "index": 279,
+    "soal": "Ada batu  ... ada semut",
+    "jawaban": "batu"
+  },
+  {
+    "index": 280,
+    "soal": "Ada koral  ... ada semut",
+    "jawaban": "koral"
+  },
+  {
+    "index": 281,
+    "soal": "Ada kerang  ... ada semut",
+    "jawaban": "kerang"
+  },
+  {
+    "index": 282,
+    "soal": "Ada mutiara  ... ada semut",
+    "jawaban": "mutiara"
+  },
+  {
+    "index": 283,
+    "soal": "Ada gigi  ... ada semut",
+    "jawaban": "gigi"
+  },
+  {
+    "index": 284,
+    "soal": "Ada tulang  ... ada semut",
+    "jawaban": "tulang"
+  },
+  {
+    "index": 285,
+    "soal": "Ada otot  ... ada semut",
+    "jawaban": "otot"
+  },
+  {
+    "index": 286,
+    "soal": "Ada saraf  ... ada semut",
+    "jawaban": "saraf"
+  },
+  {
+    "index": 287,
+    "soal": "Ada darah  ... ada semut",
+    "jawaban": "darah"
+  },
+  {
+    "index": 288,
+    "soal": "Ada langit  ... ada semut",
+    "jawaban": "langit"
+  },
+  {
+    "index": 289,
+    "soal": "Ada awan  ... ada semut",
+    "jawaban": "awan"
+  },
+  {
+    "index": 290,
+    "soal": "Ada kabut  ... ada semut",
+    "jawaban": "kabut"
+  },
+  {
+    "index": 291,
+    "soal": "Ada fajar  ... ada semut",
+    "jawaban": "fajar"
+  },
+  {
+    "index": 292,
+    "soal": "Ada senja  ... ada semut",
+    "jawaban": "senja"
+  },
+  {
+    "index": 293,
+    "soal": "Ada malam  ... ada semut",
+    "jawaban": "malam"
+  },
+  {
+    "index": 294,
+    "soal": "Ada siang  ... ada semut",
+    "jawaban": "siang"
+  },
+  {
+    "index": 295,
+    "soal": "Ada pagi  ... ada semut",
+    "jawaban": "pagi"
+  },
+  {
+    "index": 296,
+    "soal": "Ada petang  ... ada semut",
+    "jawaban": "petang"
+  },
+  {
+    "index": 297,
+    "soal": "Ada gelap  ... ada semut",
+    "jawaban": "gelap"
+  },
+  {
+    "index": 298,
+    "soal": "Ada sinar  ... ada semut",
+    "jawaban": "sinar"
+  },
+  {
+    "index": 299,
+    "soal": "Ada kilat  ... ada semut",
+    "jawaban": "kilat"
+  },
+  {
+    "index": 300,
+    "soal": "Ada petir  ... ada semut",
+    "jawaban": "petir"
+  },
+  {
+    "index": 301,
+    "soal": "Ada kilau  ... ada semut",
+    "jawaban": "kilau"
+  },
+  {
+    "index": 302,
+    "soal": "Ada gemerlap  ... ada semut",
+    "jawaban": "gemerlap"
+  },
+  {
+    "index": 303,
+    "soal": "Ada bisik  ... ada semut",
+    "jawaban": "bisik"
+  },
+  {
+    "index": 304,
+    "soal": "Ada gumam  ... ada semut",
+    "jawaban": "gumam"
+  },
+  {
+    "index": 305,
+    "soal": "Ada teriak  ... ada semut",
+    "jawaban": "teriak"
+  },
+  {
+    "index": 306,
+    "soal": "Ada tangis  ... ada semut",
+    "jawaban": "tangis"
+  },
+  {
+    "index": 307,
+    "soal": "Seperti apel  ... dibelah dua",
+    "jawaban": "apel"
+  },
+  {
+    "index": 308,
+    "soal": "Seperti anggur  ... dibelah dua",
+    "jawaban": "anggur"
+  },
+  {
+    "index": 309,
+    "soal": "Seperti kelapa  ... dibelah dua",
+    "jawaban": "kelapa"
+  },
+  {
+    "index": 310,
+    "soal": "Seperti durian  ... dibelah dua",
+    "jawaban": "durian"
+  },
+  {
+    "index": 311,
+    "soal": "Seperti jeruk  ... dibelah dua",
+    "jawaban": "jeruk"
+  },
+  {
+    "index": 312,
+    "soal": "Seperti semangka  ... dibelah dua",
+    "jawaban": "semangka"
+  },
+  {
+    "index": 313,
+    "soal": "Seperti mangga  ... dibelah dua",
+    "jawaban": "mangga"
+  },
+  {
+    "index": 314,
+    "soal": "Seperti pepaya  ... dibelah dua",
+    "jawaban": "pepaya"
+  },
+  {
+    "index": 315,
+    "soal": "Seperti pisang  ... dibelah dua",
+    "jawaban": "pisang"
+  },
+  {
+    "index": 316,
+    "soal": "Seperti duren  ... dibelah dua",
+    "jawaban": "duren"
+  },
+  {
+    "index": 317,
+    "soal": "Seperti salak  ... dibelah dua",
+    "jawaban": "salak"
+  },
+  {
+    "index": 318,
+    "soal": "Seperti melon  ... dibelah dua",
+    "jawaban": "melon"
+  },
+  {
+    "index": 319,
+    "soal": "Seperti labu  ... dibelah dua",
+    "jawaban": "labu"
+  },
+  {
+    "index": 320,
+    "soal": "Seperti timun  ... dibelah dua",
+    "jawaban": "timun"
+  },
+  {
+    "index": 321,
+    "soal": "Seperti kucing  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 322,
+    "soal": "Seperti itik  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 323,
+    "soal": "Seperti burung  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 324,
+    "soal": "Seperti kambing  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 325,
+    "soal": "Seperti sapi  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 326,
+    "soal": "Seperti kerbau  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 327,
+    "soal": "Seperti elang  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 328,
+    "soal": "Seperti kuda  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 329,
+    "soal": "Seperti bebek  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 330,
+    "soal": "Seperti tupai  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 331,
+    "soal": "Seperti merpati  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 332,
+    "soal": "Seperti angsa  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 333,
+    "soal": "Seperti serigala  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 334,
+    "soal": "Seperti harimau  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 335,
+    "soal": "Seperti macan  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 336,
+    "soal": "Seperti gajah  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 337,
+    "soal": "Seperti panda  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 338,
+    "soal": "Seperti kupu-kupu  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 339,
+    "soal": "Seperti rusa  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 340,
+    "soal": "Seperti kelinci  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 341,
+    "soal": "Seperti cicak  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 342,
+    "soal": "Seperti tikus  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 343,
+    "soal": "Seperti musang  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 344,
+    "soal": "Seperti ikan  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 345,
+    "soal": "Seperti badak  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 346,
+    "soal": "Seperti unta  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 347,
+    "soal": "Seperti belalang  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 348,
+    "soal": "Seperti semut  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 349,
+    "soal": "Seperti lebah  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 350,
+    "soal": "Seperti banteng  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 351,
+    "soal": "Seperti domba  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 352,
+    "soal": "Seperti anjing  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 353,
+    "soal": "Seperti beruang  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 354,
+    "soal": "Seperti koala  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 355,
+    "soal": "Seperti lumba-lumba  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 356,
+    "soal": "Seperti hiu  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 357,
+    "soal": "Seperti pinguin  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 358,
+    "soal": "Seperti kura-kura  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 359,
+    "soal": "Seperti siput  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 360,
+    "soal": "Seperti camar  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 361,
+    "soal": "Seperti leopard  ... dari pinggitan",
+    "jawaban": "lepas"
+  },
+  {
+    "index": 362,
+    "soal": "Jauh di mata  ... di hati",
+    "jawaban": "dekat"
+  },
+  {
+    "index": 363,
+    "soal": "Jauh di langkah  ... di hati",
+    "jawaban": "dekat"
+  },
+  {
+    "index": 364,
+    "soal": "Jauh di pelupuk  ... di hati",
+    "jawaban": "dekat"
+  },
+  {
+    "index": 365,
+    "soal": "Jauh di jarak  ... di hati",
+    "jawaban": "dekat"
+  },
+  {
+    "index": 366,
+    "soal": "Jauh di pandang  ... di hati",
+    "jawaban": "dekat"
+  },
+  {
+    "index": 367,
+    "soal": "Jauh di cakrawala  ... di hati",
+    "jawaban": "dekat"
+  },
+  {
+    "index": 368,
+    "soal": "Gajah di kamar  ... tak tampak, semut diseberang lautan tampak",
+    "jawaban": "pelupuk"
+  },
+  {
+    "index": 369,
+    "soal": "Gajah di tengah kota  ... tak tampak, semut diseberang lautan tampak",
+    "jawaban": "pelupuk"
+  },
+  {
+    "index": 370,
+    "soal": "Gajah di halaman  ... tak tampak, semut diseberang lautan tampak",
+    "jawaban": "pelupuk"
+  },
+  {
+    "index": 371,
+    "soal": "Gajah di jeruji  ... tak tampak, semut diseberang lautan tampak",
+    "jawaban": "pelupuk"
+  },
+  {
+    "index": 372,
+    "soal": "Gajah di pelupuk  ... tak tampak, semut diseberang lautan tampak",
+    "jawaban": "pelupuk"
+  },
+  {
+    "index": 373,
+    "soal": "Gajah di pinggir mata  ... tak tampak, semut diseberang lautan tampak",
+    "jawaban": "pelupuk"
+  },
+  {
+    "index": 374,
+    "soal": "Gajah di kaca mata  ... tak tampak, semut diseberang lautan tampak",
+    "jawaban": "pelupuk"
+  },
+  {
+    "index": 375,
+    "soal": "Menepuk air di piring, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 376,
+    "soal": "Menepuk air di mangkuk, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 377,
+    "soal": "Menepuk air di loyang, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 378,
+    "soal": "Menepuk air di talam, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 379,
+    "soal": "Menepuk air di nampan, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 380,
+    "soal": "Menepuk air di ember, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 381,
+    "soal": "Menepuk air di timba, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 382,
+    "soal": "Menepuk air di kolam, terpercik muka  ...",
+    "jawaban": "sendiri"
+  },
+  {
+    "index": 383,
     "soal": "Harimau mati meninggalkan  ... , gajah mati meninggalkan gading",
     "jawaban": "belang"
   },
   {
-    "index": 64,
-    "soal": " ... lupa akan kulitnya",
-    "jawaban": "Kacang "
+    "index": 384,
+    "soal": "Macan mati meninggalkan  ... , gajah mati meninggalkan gading",
+    "jawaban": "belang"
   },
   {
-    "index": 65,
-    "soal": " ... batu sembunyi tangan",
-    "jawaban": "Lempar "
+    "index": 385,
+    "soal": "Serigala mati meninggalkan  ... , gajah mati meninggalkan gading",
+    "jawaban": "belang"
   },
   {
-    "index": 66,
-    "soal": "Air  ...  menghanyutkan",
+    "index": 386,
+    "soal": "Musang mati meninggalkan  ... , gajah mati meninggalkan gading",
+    "jawaban": "belang"
+  },
+  {
+    "index": 387,
+    "soal": "Kucing hutan mati meninggalkan  ... , gajah mati meninggalkan gading",
+    "jawaban": "belang"
+  },
+  {
+    "index": 388,
+    "soal": "Cheetah mati meninggalkan  ... , gajah mati meninggalkan gading",
+    "jawaban": "belang"
+  },
+  {
+    "index": 389,
+    "soal": "Leopard mati meninggalkan  ... , gajah mati meninggalkan gading",
+    "jawaban": "belang"
+  },
+  {
+    "index": 390,
+    "soal": "Sungai  ... menghanyutkan",
     "jawaban": "tenang"
   },
   {
-    "index": 67,
-    "soal": "Datang tak dijemput  ...  tidak diantar",
-    "jawaban": "pulang"
+    "index": 391,
+    "soal": "Kolam  ... menghanyutkan",
+    "jawaban": "tenang"
   },
   {
-    "index": 68,
-    "soal": "Dari  ...  yang jernih tak akan mengalir air yang keruh",
-    "jawaban": "telaga"
+    "index": 392,
+    "soal": "Riak  ... menghanyutkan",
+    "jawaban": "tenang"
   },
   {
-    "index": 69,
-    "soal": " ...  badan dikandung tanah budi baik terkenang juga",
-    "jawaban": "Hancur"
+    "index": 393,
+    "soal": "Embung  ... menghanyutkan",
+    "jawaban": "tenang"
   },
   {
-    "index": 70,
-    "soal": " ...  batu sembunyi tangan",
-    "jawaban": "Lempar"
+    "index": 394,
+    "soal": "Telaga  ... menghanyutkan",
+    "jawaban": "tenang"
   },
   {
-    "index": 71,
-    "soal": " ...  berbulu ayam",
-    "jawaban": "Musang"
+    "index": 395,
+    "soal": "Waduk  ... menghanyutkan",
+    "jawaban": "tenang"
   },
   {
-    "index": 72,
-    "soal": "Tak ada  ...  yang tak retak",
-    "jawaban": "gading"
+    "index": 396,
+    "soal": "Danau  ... menghanyutkan",
+    "jawaban": "tenang"
   },
   {
-    "index": 73,
-    "soal": "Tua-tua  ...  makin tua makin menjadi",
-    "jawaban": "keladi"
+    "index": 397,
+    "soal": "Siapkan  ... sebelum hujan",
+    "jawaban": "payung"
   },
   {
-    "index": 74,
-    "soal": "Berat sama  ... , ringan sama dijinjing",
-    "jawaban": "dipikul"
+    "index": 398,
+    "soal": "Sediakan  ... sebelum hujan",
+    "jawaban": "payung"
   },
   {
-    "index": 75,
-    "soal": "Bagai  ...  merindukan bulan",
-    "jawaban": "pungguk"
+    "index": 399,
+    "soal": "Simpatkan  ... sebelum hujan",
+    "jawaban": "payung"
   },
   {
-    "index": 76,
-    "soal": "Air susu  ...  dengan air tuba",
-    "jawaban": "dibalas"
+    "index": 400,
+    "soal": "Sedia  ... sebelum hujan",
+    "jawaban": "payung"
   },
   {
-    "index": 77,
-    "soal": "Bagai burung dalam  ... ",
-    "jawaban": "sangkar"
+    "index": 401,
+    "soal": "Persiapkan  ... sebelum hujan",
+    "jawaban": "payung"
   },
   {
-    "index": 78,
-    "soal": "Berguru kepalang ajar seperti bunga  ...  tak jadi",
-    "jawaban": "kembang"
+    "index": 402,
+    "soal": "Amankan  ... sebelum hujan",
+    "jawaban": "payung"
   },
   {
-    "index": 79,
-    "soal": "Anjing menggonggong kafilah  ... ",
+    "index": 403,
+    "soal": "Bawalah  ... sebelum hujan",
+    "jawaban": "payung"
+  },
+  {
+    "index": 404,
+    "soal": "Genggam  ... sebelum hujan",
+    "jawaban": "payung"
+  },
+  {
+    "index": 405,
+    "soal": "Sedikit demi sedikit lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 406,
+    "soal": "Setitik demi setitik lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 407,
+    "soal": "Secuil demi secuil lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 408,
+    "soal": "Serbuk demi serbuk lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 409,
+    "soal": "Busur demi busur lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 410,
+    "soal": "Biji demi biji lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 411,
+    "soal": "Butir demi butir lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 412,
+    "soal": "Setetes demi setetes lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 413,
+    "soal": "Butiran demi butiran lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 414,
+    "soal": "Sejumput demi sejumput lama-lama menjadi  ...",
+    "jawaban": "bukit"
+  },
+  {
+    "index": 415,
+    "soal": "Kedelai  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 416,
+    "soal": "Kacang merah  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 417,
+    "soal": "Kacang tanah  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 418,
+    "soal": "Almond  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 419,
+    "soal": "Hazelnut  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 420,
+    "soal": "Pistachio  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 421,
+    "soal": "Buncis  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 422,
+    "soal": "Lentil  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 423,
+    "soal": "Biji bunga matahari  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 424,
+    "soal": "Wijen  ... akan kulitnya",
+    "jawaban": "lupa"
+  },
+  {
+    "index": 425,
+    "soal": "Tajam ke bawah  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 426,
+    "soal": "Tajam ke depan  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 427,
+    "soal": "Tajam ke belakang  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 428,
+    "soal": "Tajam ke sisi kanan  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 429,
+    "soal": "Tajam ke sisi kiri  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 430,
+    "soal": "Tajam ke luar  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 431,
+    "soal": "Tajam ke dalam  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 432,
+    "soal": "Tajam ke hulu  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 433,
+    "soal": "Tajam ke hilir  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 434,
+    "soal": "Tajam ke barat  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 435,
+    "soal": "Tajam ke timur  ... ke atas",
+    "jawaban": "tumpul"
+  },
+  {
+    "index": 436,
+    "soal": "Bagaikan elang  ... dalam sangkar",
+    "jawaban": "elang"
+  },
+  {
+    "index": 437,
+    "soal": "Bagaikan rajawali  ... dalam sangkar",
+    "jawaban": "rajawali"
+  },
+  {
+    "index": 438,
+    "soal": "Bagaikan merak  ... dalam sangkar",
+    "jawaban": "merak"
+  },
+  {
+    "index": 439,
+    "soal": "Bagaikan cenderawasih  ... dalam sangkar",
+    "jawaban": "cenderawasih"
+  },
+  {
+    "index": 440,
+    "soal": "Bagaikan nuri  ... dalam sangkar",
+    "jawaban": "nuri"
+  },
+  {
+    "index": 441,
+    "soal": "Bagaikan kakatua  ... dalam sangkar",
+    "jawaban": "kakatua"
+  },
+  {
+    "index": 442,
+    "soal": "Bagaikan kasuari  ... dalam sangkar",
+    "jawaban": "kasuari"
+  },
+  {
+    "index": 443,
+    "soal": "Bagaikan pipit  ... dalam sangkar",
+    "jawaban": "pipit"
+  },
+  {
+    "index": 444,
+    "soal": "Bagaikan walet  ... dalam sangkar",
+    "jawaban": "walet"
+  },
+  {
+    "index": 445,
+    "soal": "Bagaikan pelikan  ... dalam sangkar",
+    "jawaban": "pelikan"
+  },
+  {
+    "index": 446,
+    "soal": "Bagaikan bangau  ... dalam sangkar",
+    "jawaban": "bangau"
+  },
+  {
+    "index": 447,
+    "soal": "Bagaikan bango  ... dalam sangkar",
+    "jawaban": "bango"
+  },
+  {
+    "index": 448,
+    "soal": "Bagaikan kuntul  ... dalam sangkar",
+    "jawaban": "kuntul"
+  },
+  {
+    "index": 449,
+    "soal": "Bagaikan trenggiling  ... dalam sangkar",
+    "jawaban": "trenggiling"
+  },
+  {
+    "index": 450,
+    "soal": "Bagaikan armadillo  ... dalam sangkar",
+    "jawaban": "armadillo"
+  },
+  {
+    "index": 451,
+    "soal": "Bagaikan platipus  ... dalam sangkar",
+    "jawaban": "platipus"
+  },
+  {
+    "index": 452,
+    "soal": "Serigala menggonggong kafilah  ...",
     "jawaban": "berlalu"
   },
   {
-    "index": 80,
-    "soal": "Dunia tak  ...  daun kelor",
-    "jawaban": "selebar"
+    "index": 453,
+    "soal": "Anjing liar menggonggong kafilah  ...",
+    "jawaban": "berlalu"
   },
   {
-    "index": 81,
-    "soal": "Gajah di  ...  mata tak tampat, semut diseberang lautan tampak",
-    "jawaban": "pelupuk"
+    "index": 454,
+    "soal": "Anjing kampung menggonggong kafilah  ...",
+    "jawaban": "berlalu"
   },
   {
-    "index": 82,
-    "soal": "Gajah mati meninggalkan gading,  ...  mati meninggalkan belang",
-    "jawaban": "harimau"
+    "index": 455,
+    "soal": "Anjing galak menggonggong kafilah  ...",
+    "jawaban": "berlalu"
   },
   {
-    "index": 83,
-    "soal": "Menepuk air di dulang, terpercik muka  ... ",
-    "jawaban": "sendiri"
+    "index": 456,
+    "soal": "Anjing penjaga menggonggong kafilah  ...",
+    "jawaban": "berlalu"
   },
   {
-    "index": 84,
-    "soal": "Seperti pinang  ...  dua",
-    "jawaban": "dibelah"
+    "index": 457,
+    "soal": "Anjing pudel menggonggong kafilah  ...",
+    "jawaban": "berlalu"
   },
   {
-    "index": 85,
-    "soal": "Bagai air di  ...  talas",
-    "jawaban": "daun"
+    "index": 458,
+    "soal": "Anjing bulldog menggonggong kafilah  ...",
+    "jawaban": "berlalu"
   },
   {
-    "index": 86,
-    "soal": "Dari semak ke  ... ",
-    "jawaban": "belukar"
+    "index": 459,
+    "soal": "Anjing husky menggonggong kafilah  ...",
+    "jawaban": "berlalu"
   },
   {
-    "index": 87,
-    "soal": "Daripada hidup bercermin  ... , lebih baik mati berkalang tanah",
-    "jawaban": "bangkai"
+    "index": 460,
+    "soal": "Berguru kepalang ajar seperti bunga melati  ... tak jadi",
+    "jawaban": "kembang"
   },
   {
-    "index": 88,
-    "soal": "Habis  ...  sepah dibuang",
-    "jawaban": "manis"
+    "index": 461,
+    "soal": "Berguru kepalang ajar seperti bunga mawar  ... tak jadi",
+    "jawaban": "kembang"
   },
   {
-    "index": 89,
-    "soal": "Jauh di  ... , dekat di hati",
-    "jawaban": "mata"
+    "index": 462,
+    "soal": "Berguru kepalang ajar seperti bunga anggrek  ... tak jadi",
+    "jawaban": "kembang"
   },
   {
-    "index": 90,
-    "soal": "Maksud hati  ...  gunung, apa daya tangan tak sampai",
-    "jawaban": "memeluk"
+    "index": 463,
+    "soal": "Berguru kepalang ajar seperti bunga teratai  ... tak jadi",
+    "jawaban": "kembang"
   },
   {
-    "index": 91,
-    "soal": "Malu  ...  sesat di jalan",
-    "jawaban": "bertanya"
+    "index": 464,
+    "soal": "Berguru kepalang ajar seperti bunga dahlia  ... tak jadi",
+    "jawaban": "kembang"
   },
   {
-    "index": 92,
-    "soal": "Sambil  ...  minum air",
-    "jawaban": "menyelam"
+    "index": 465,
+    "soal": "Berguru kepalang ajar seperti bunga tulip  ... tak jadi",
+    "jawaban": "kembang"
   },
   {
-    "index": 93,
-    "soal": "Ada uang abang di  ... , tak ada uang abang melayang",
-    "jawaban": "sayang"
+    "index": 466,
+    "soal": "Berguru kepalang ajar seperti bunga sepatu  ... tak jadi",
+    "jawaban": "kembang"
   },
   {
-    "index": 94,
-    "soal": "Air susu dibalas dengan  ... ",
+    "index": 467,
+    "soal": "Berguru kepalang ajar seperti bunga kemboja  ... tak jadi",
+    "jawaban": "kembang"
+  },
+  {
+    "index": 468,
+    "soal": "Berguru kepalang ajar seperti bunga lily  ... tak jadi",
+    "jawaban": "kembang"
+  },
+  {
+    "index": 469,
+    "soal": "Berguru kepalang ajar seperti bunga cempaka  ... tak jadi",
+    "jawaban": "kembang"
+  },
+  {
+    "index": 470,
+    "soal": "Susu sapi dibalas dengan  ...",
     "jawaban": "air tuba"
   },
   {
-    "index": 95,
-    "soal": "Kacang lupa akan  ... ",
-    "jawaban": "kulitnya"
+    "index": 471,
+    "soal": "Susu kambing dibalas dengan  ...",
+    "jawaban": "air tuba"
   },
   {
-    "index": 96,
-    "soal": " ...  air ludah",
-    "jawaban": "Menjilat"
+    "index": 472,
+    "soal": "Susu kedelai dibalas dengan  ...",
+    "jawaban": "air tuba"
   },
   {
-    "index": 97,
-    "soal": " ...  berburu/berbulu domba",
-    "jawaban": "Serigala"
+    "index": 473,
+    "soal": "Susu bubuk dibalas dengan  ...",
+    "jawaban": "air tuba"
   },
   {
-    "index": 98,
-    "soal": "Lidah tak  ... ",
-    "jawaban": "bertulang"
+    "index": 474,
+    "soal": "Susu cokelat dibalas dengan  ...",
+    "jawaban": "air tuba"
   },
   {
-    "index": 99,
-    "soal": "Selama hayat masih di  ...  badan",
-    "jawaban": "kandung"
+    "index": 475,
+    "soal": "Susu manis dibalas dengan  ...",
+    "jawaban": "air tuba"
   },
   {
-    "index": 100,
-    "soal": "Jangan  ...  di air keruh",
-    "jawaban": "bercermin"
+    "index": 476,
+    "soal": "Air susu dibalas dengan  ...",
+    "jawaban": "air tuba"
   },
   {
-    "index": 101,
-    "soal": "Selama janur kuning belum  ... , maka aku akan selalu mengejarmu demi mendapatkan cintamu",
-    "jawaban": "melengkung"
+    "index": 477,
+    "soal": "Seperti gandum  ... makin berisi makin merunduk",
+    "jawaban": "gandum"
   },
   {
-    "index": 102,
-    "soal": "Bagai makan  ...  simalakama",
-    "jawaban": "buah"
+    "index": 478,
+    "soal": "Seperti jagung  ... makin berisi makin merunduk",
+    "jawaban": "jagung"
+  },
+  {
+    "index": 479,
+    "soal": "Seperti kedelai  ... makin berisi makin merunduk",
+    "jawaban": "kedelai"
+  },
+  {
+    "index": 480,
+    "soal": "Seperti beras  ... makin berisi makin merunduk",
+    "jawaban": "beras"
+  },
+  {
+    "index": 481,
+    "soal": "Seperti serai  ... makin berisi makin merunduk",
+    "jawaban": "serai"
+  },
+  {
+    "index": 482,
+    "soal": "Seperti barley  ... makin berisi makin merunduk",
+    "jawaban": "barley"
+  },
+  {
+    "index": 483,
+    "soal": "Seperti oat  ... makin berisi makin merunduk",
+    "jawaban": "oat"
+  },
+  {
+    "index": 484,
+    "soal": "Seperti sorgum  ... makin berisi makin merunduk",
+    "jawaban": "sorgum"
+  },
+  {
+    "index": 485,
+    "soal": "Seperti kacang hijau  ... makin berisi makin merunduk",
+    "jawaban": "kacang hijau"
+  },
+  {
+    "index": 486,
+    "soal": "Seperti kacang merah  ... makin berisi makin merunduk",
+    "jawaban": "kacang merah"
+  },
+  {
+    "index": 487,
+    "soal": "Daripada hidup bersandar  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 488,
+    "soal": "Daripada hidup bergantung  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 489,
+    "soal": "Daripada hidup berkaca  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 490,
+    "soal": "Daripada hidup berpeluh  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 491,
+    "soal": "Daripada hidup berhutang  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 492,
+    "soal": "Daripada hidup terhina  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 493,
+    "soal": "Daripada hidup meminta  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 494,
+    "soal": "Daripada hidup berdusta  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 495,
+    "soal": "Daripada hidup bermuka dua  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 496,
+    "soal": "Daripada hidup berpura-pura  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 497,
+    "soal": "Daripada hidup memelas  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 498,
+    "soal": "Daripada hidup berumpama  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
+  },
+  {
+    "index": 499,
+    "soal": "Daripada hidup bercermin  ... , lebih baik mati berkalang tanah",
+    "jawaban": "bangkai"
   }
 ]
